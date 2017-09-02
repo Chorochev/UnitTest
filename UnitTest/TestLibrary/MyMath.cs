@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TestLibrary
+﻿namespace TestLibrary
 {
     public class MyMath
     {
@@ -33,7 +27,5 @@ namespace TestLibrary
             result = str.Length;
             return result;
         }
-
-
     }
 }
